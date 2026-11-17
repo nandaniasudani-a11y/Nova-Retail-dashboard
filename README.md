@@ -183,5 +183,5 @@ Other measures cover distinct orders, average order value, discount %, return am
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](https://www.linkedin.com/in/nandani-assudani-029a38288/) · [Email](nandaniasudani@gmail.com)
+**[Nandani Assudani]**
+[LinkedIn](https://www.linkedin.com/in/nandani-assudani-029a38288/) · [Email](nandaniassudani@gmail.com)
